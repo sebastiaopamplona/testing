@@ -3,11 +3,11 @@ import (
 )
 
 func main() {
-	fmt.Println("unimplemented")	
+	pt1()
 }
 
 func pt1() {
-	fmt.Println("unimplemented")
+	fmt.Println("work done")
 }
 
 func pt2() {
