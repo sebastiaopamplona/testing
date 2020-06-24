@@ -5,6 +5,7 @@ import (
 func main() {
 	pt1()
 	pt2()
+	pt3()
 }
 
 func pt1() {
@@ -16,6 +17,6 @@ func pt2() {
 }
 
 func pt3() {
-  fmt.Println("unimplemented")
+  fmt.Println("work done")
 }
 
