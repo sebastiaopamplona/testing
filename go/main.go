@@ -28,3 +28,7 @@ func Foo5() {
   fmt.Println("Foo5")
 }
 
+func Foo6() {
+  fmt.Println("Foo6")
+}
+
