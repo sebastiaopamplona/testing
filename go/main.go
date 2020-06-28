@@ -24,10 +24,6 @@ func Foo4() {
   fmt.Println("Foo4")
 }
 
-func Foo5() {
-  fmt.Println("Foo5")
-}
-
 func Foo6() {
   fmt.Println("Foo6")
 }
